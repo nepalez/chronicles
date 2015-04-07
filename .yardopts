@@ -1,0 +1,3 @@
+--asset LICENSE
+--exclude lib/chronicles/version.rb
+--output doc/api

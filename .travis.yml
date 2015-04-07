@@ -1,0 +1,9 @@
+---
+language: ruby
+bundler_args: --without metrics
+script: rake test:coverage:run
+rvm:
+  - 2.0
+  - ruby-head
+  - rbx-2 --2.0
+  - jruby-head-20mode
