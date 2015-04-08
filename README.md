@@ -15,7 +15,7 @@ Chronicles
 [travis]: https://travis-ci.org/nepalez/chronicles
 [inch]: https://inch-ci.org/github/nepalez/chronicles
 
-Allow remembering object methods' calls.
+Remembers invocations of object methods
 
 Installation
 ------------
